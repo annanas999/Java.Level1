@@ -1,6 +1,6 @@
-package Lesson_1;
+package Lesson_1; 
 
-// 1.
+// 1. а
 
 import static java.lang.Math.floorMod;
 import static java.lang.Math.random;
